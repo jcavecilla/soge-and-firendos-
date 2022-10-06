@@ -26,6 +26,10 @@ label start:
     # These display lines of dialogue.
 
     k "SIUUUUUUUUUUUUUUUU"
+    
+    a "MADRE MIA"
+    
+    e "ER BICHOOO"
 
     # This ends the game.
 
